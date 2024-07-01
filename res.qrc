@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>images/wallpaper_eight.jpg</file>
+        <file>images/wallpap_five.jpg</file>
+        <file>images/wallpap_four.jpg</file>
+        <file>images/wallpap_free.jpg</file>
+        <file>images/wallpap_one.jpg</file>
+        <file>images/wallpap_seven.jpg</file>
+        <file>images/wallpap_six.jpg</file>
+        <file>images/wallpap_two.jpg</file>
+        <file>images/random_dcode.png</file>
+        <file>images/cyrsor.png</file>
+        <file>images/re_zero_skyrim_dragon.png</file>
+    </qresource>
+</RCC>
